@@ -2,20 +2,8 @@
 ## 🖼️ Diagramas – Fase 1
 Nesta fase, foram elaborados os **diagramas de caso de uso** para mapear as principais funcionalidades do sistema.  
 
-- 📌 **Caso de Uso – Cadastro de Pessoa Física**  
-  ![Diagrama PF](Inserir diagrama de pessoa física)
-
-- 📌 **Caso de Uso – Cadastro de Pessoa Jurídica**  
-  ![Diagrama PJ](Inserir diagrama de Pessoa Jurídica)
-
-- 📌 **Caso de Uso – Cadastro de Professores**  
-  ![Diagrama Professores](Inserir diagrama de Cadastro de Professores)
-
-- 📌 **Caso de Uso – Cadastro de Fornecedores**  
-  ![Diagrama Fornecedores](Inserir diagrama de Cadastro de Fornecedores)
-
-- 📌 **Caso de Uso – Cadastro de Alunos**  
-  ![Diagrama Alunos](Inserir diagrama de Cadastro de Alunos)
+- 📌 **Caso de Uso – Cadastro de Pessoa Física, Jurídica, Professsores, Alunos e Fornecedores**  
+  ![Diagrama](./diagrama_casos_de_uso.png)
 
 ---
 
