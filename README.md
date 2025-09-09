@@ -20,10 +20,11 @@ Nesta fase, foi elaborado o **Diagrama de Casos de Uso** para representar as pri
 
 ---
 
-## 🎨 Protótipos Visuais – Fase 2
-Na fase 2, foram criados **protótipos visuais em alta fidelidade**, representando as principais jornadas do usuário no sistema.  
+## 🎨 Fase 2 – Protótipos Visuais de Alta Fidelidade
 
-👉 Todos os protótipos foram desenvolvidos no **Excalidraw** e exportados em imagens.  
+Nesta etapa, foram desenvolvidos **protótipos visuais em alta fidelidade** que representam as principais **jornadas do usuário** dentro do sistema.
+
+🛠️ Os protótipos foram criados utilizando a ferramenta **Excalidraw** e exportados como imagens, visando facilitar a visualização das interfaces e interações esperadas.  
 
 - Tela de **Cadastro de Pessoa Física**  
   ![Protótipo PF](./cadastro_pessoa_fisica.png)
