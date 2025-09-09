@@ -1,8 +1,21 @@
-# Projeto-Integrador-Senac
-## 🖼️ Diagramas – Fase 1
-Nesta fase, foram elaborados os **diagramas de caso de uso** para mapear as principais funcionalidades do sistema.  
+# 🎓 Projeto Integrador – SENAC
 
-- 📌 **Caso de Uso – Cadastro de Pessoa Física, Jurídica, Professsores, Alunos e Fornecedores**  
+Este repositório contém os artefatos desenvolvidos nas **Fases 1 e 2** do Projeto Integrador do curso SENAC. O objetivo é construir um sistema completo, seguindo boas práticas de **engenharia de software**, **modelagem de requisitos** e **prototipação de interfaces**.
+
+---
+
+## 🧩 Fase 1 – Diagramas de Caso de Uso
+
+Nesta fase, foi elaborado o **Diagrama de Casos de Uso** para representar as principais funcionalidades do sistema, bem como os atores envolvidos em cada processo.
+
+### 🔍 Funcionalidades mapeadas:
+- Cadastro de **Pessoa Física**
+- Cadastro de **Pessoa Jurídica**
+- Cadastro de **Professores**
+- Cadastro de **Alunos**
+- Cadastro de **Fornecedores**
+
+### 📌 Diagrama de Casos de Uso: 
   ![Diagrama](./diagrama_casos_de_uso.png)
 
 ---
